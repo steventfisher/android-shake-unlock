@@ -1,5 +1,5 @@
 # Android Shake-to-Unlock App
-# project1-fisher-gagne
+## CS691 Project 1
 This was the first android app that I developed.  This was
 written for CS 691 (Mobile Privacy and Security) at UNR.
 
